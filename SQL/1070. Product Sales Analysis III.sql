@@ -4,3 +4,4 @@ WHERE (product_id , year) in (
     SELECT product_id , min(year)
     from Sales
     GROUP By product_id 
+)
