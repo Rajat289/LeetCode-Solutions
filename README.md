@@ -8,6 +8,7 @@ Currently, I am focusing on:
 * SQL
 * Hash Tables
 * Math
+* String
 
 
 ---
