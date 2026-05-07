@@ -4,8 +4,10 @@ This repository contains my solutions to LeetCode problems.
 
 Currently, I am focusing on:
 
-* Arrays (DSA)
+* Arrays 
 * SQL
+* Hash Tables
+
 
 ---
 
