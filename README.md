@@ -7,6 +7,7 @@ Currently, I am focusing on:
 * Arrays 
 * SQL
 * Hash Tables
+* Math
 
 
 ---
