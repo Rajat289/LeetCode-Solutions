@@ -3,6 +3,7 @@ class Solution {
         Collections.sort(robot);
         Arrays.sort(factory, (a, b) -> a[0] - b[0]);
 
+        
         int n = robot.size();
         int m = factory.length;
 
